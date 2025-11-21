@@ -1,18 +1,4 @@
-# 🚀 Tessela
-
-<div align="center">
-
-**Transformando análise de crédito com Inteligência Artificial**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
-
-</div>
-
----
-
-## 📖 Sobre a Tessela
+# 📖 Sobre a Tessela
 
 A **Tessela** é uma empresa de tecnologia especializada no desenvolvimento de soluções inovadoras que utilizam **Inteligência Artificial** para revolucionar o setor de análise de crédito. Nossa missão é democratizar o acesso ao crédito através de tecnologia de ponta, oferecendo decisões mais rápidas, precisas e inclusivas.
 
@@ -35,22 +21,6 @@ Investimos constantemente em pesquisa e desenvolvimento, mantendo-nos na vanguar
 ### Impacto Real
 Nossas soluções têm o potencial de transformar vidas e negócios, facilitando o acesso ao crédito e impulsionando o crescimento econômico.
 
-## 🛠️ Tecnologias
-
-Nossos projetos utilizam tecnologias modernas e robustas:
-
-- **Backend**: NestJS, TypeScript, Prisma
-- **IA/ML**: Modelos de machine learning para análise preditiva
-- **Infraestrutura**: Arquitetura escalável e cloud-native
-- **Segurança**: JWT, autenticação multi-tenant, guardas de autorização
-
-## 📊 Nossos Projetos
-
-Esta organização reúne os projetos desenvolvidos pela Tessela, incluindo:
-
-- 🔐 **Tessela Engine** - Plataforma core de análise de crédito
-- 📚 **Documentação** - Guias técnicos e APIs
-- 🧪 **Ferramentas** - Utilitários e bibliotecas internas
 
 ## 🤝 Contribuindo
 
